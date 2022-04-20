@@ -1,4 +1,7 @@
 /* 
+    ----------------
+    Basic server setup
+    ----------------
     1. create folder
     2. open terminal to that folder
     3. npm init
@@ -14,4 +17,10 @@
     5. listen to port
     6. node index.js
     7. check the browser for that port
+    -----------------
+    GET
+    -----------------
+    1. cors middleware (npm install cors)
+    2. require cors
+    3. app.use(cors())
 */
